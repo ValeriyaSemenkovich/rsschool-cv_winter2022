@@ -19,5 +19,5 @@
 ---
 ## **Code example:**
 ```
-
+Code
 ```
